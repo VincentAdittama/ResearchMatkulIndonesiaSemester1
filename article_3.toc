@@ -1,0 +1,10 @@
+\babel@toc {bahasa}{}\relax 
+\contentsline {section}{Pendahuluan}{1}{Doc-Start}%
+\contentsline {section}{\numberline {1}Metode}{1}{section.1}%
+\contentsline {section}{\numberline {2}Hasil dan Pembahasan}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Studi Karakter Pengarang}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Analisis Bentuk Musik}{1}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Kesimpulan}{1}{section.3}%
+\contentsline {section}{Ucapan Terima Kasih}{1}{section*.1}%
+\contentsline {section}{Pustaka}{1}{section*.2}%
+\contentsfinish 
