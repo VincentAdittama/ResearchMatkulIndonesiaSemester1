@@ -224,8 +224,8 @@
 	\twocolumn[{%
 		\thispagestyle{empty}%
 		\vskip-36pt%
-		{\raggedleft\small\sffamily\bfseries\@JournalInfo\\\@Archive\par}%
-		\vskip20pt%
+		% {\raggedleft\small\sffamily\bfseries\@JournalInfo\\\@Archive\par}%
+		% \vskip20pt%
 		{\raggedright\color{color1}\sffamily\bfseries\fontsize{20}{25}\selectfont \@PaperTitle\par}%
 		\vskip10pt%
 		{\raggedright\color{color1}\sffamily\fontsize{12}{16}\selectfont \@Authors\par}%

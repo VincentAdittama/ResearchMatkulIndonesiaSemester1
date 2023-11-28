@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex article_3"] 1700731967 "article_3.aux" "article_3.bbl" "article_3" 1700731968 0
+["bibtex article_3"] 1701157610 "article_3.aux" "article_3.bbl" "article_3" 1701157618 0
   "./referensi.bib" 1700731845 9906 dec6009bec001bbc9585cf75157edb01 ""
   "/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/bibtex/bst/base/unsrt.bst" 1678549815 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "article_3.aux" 1700731968 1855 19996b8c2ed7a85c667925c9f647edad "pdflatex"
+  "article_3.aux" 1701157618 1866 a1c844764a96b5488a5c3155e0fc0783 "pdflatex"
   (generated)
   "article_3.bbl"
   "article_3.blg"
   (rewritten before read)
-["pdflatex"] 1700731967 "/Users/vincent/Documents/Latex Projects/ResearchMatkulIndonesiaSemester1/article_3.tex" "article_3.pdf" "article_3" 1700731968 0
-  "/Users/vincent/Documents/Latex Projects/ResearchMatkulIndonesiaSemester1/article_3.tex" 1700731966 8058 2bf0fafeeb3a16f406f98695fc3fdae8 ""
+["pdflatex"] 1701157618 "/Users/vincent/Documents/Latex Projects/ResearchMatkulIndonesiaSemester1/article_3.tex" "article_3.pdf" "article_3" 1701157618 0
+  "/Users/vincent/Documents/Latex Projects/ResearchMatkulIndonesiaSemester1/article_3.tex" 1701157496 8056 c727e545da16ee9e9f1195499a5b9185 ""
   "/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1678549815 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/map/fontname/texfonts.map" 1678549815 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1678549815 4609045 74543da1ab9350ba886fce0af49a2cfd ""
@@ -135,12 +135,12 @@
   "/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1678549815 56148 51a9a8571c07b9921892ae11063ae853 ""
   "/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/web2c/texmf.cnf" 1678549815 40748 4081c8bc921e56c865f975bd762e388c ""
   "/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1678549815 7884066 80f25e60658dfc5dcdb6ade5d53dd316 ""
-  "SelfArx.cls" 1603357104 8092 737c8d1591f9545f221c870f69e6d87b ""
-  "article_3.aux" 1700731968 1855 19996b8c2ed7a85c667925c9f647edad "pdflatex"
-  "article_3.bbl" 1700731967 1557 158964669273c4d9c28febd69d504069 "bibtex article_3"
-  "article_3.out" 1700731968 988 15c239c3a59c239d9ef6dd266fad1501 "pdflatex"
-  "article_3.tex" 1700731966 8058 2bf0fafeeb3a16f406f98695fc3fdae8 ""
-  "article_3.toc" 1700731968 589 8a46bb159ca2c350296485030b4b0267 "pdflatex"
+  "SelfArx.cls" 1701157618 8096 1d6bb49498bf8c36d7bb25ee84ea1a03 ""
+  "article_3.aux" 1701157618 1866 a1c844764a96b5488a5c3155e0fc0783 "pdflatex"
+  "article_3.bbl" 1701157610 1557 158964669273c4d9c28febd69d504069 "bibtex article_3"
+  "article_3.out" 1701157618 1046 fa828a667927e6ddbe3aee1672df9a49 "pdflatex"
+  "article_3.tex" 1701157496 8056 c727e545da16ee9e9f1195499a5b9185 ""
+  "article_3.toc" 1701157618 600 aba7c31ce3dd4ffd740961e1d3ce5047 "pdflatex"
   (generated)
   "article_3.aux"
   "article_3.log"

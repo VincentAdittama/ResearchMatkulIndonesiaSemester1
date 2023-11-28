@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.9.21)  23 NOV 2023 16:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.9.21)  28 NOV 2023 14:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -621,18 +621,18 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
 enddocument/afterlastpage: lastpage setting LastPage.
 (./article_3.aux)
 Package rerunfilecheck Info: File `article_3.out' has not changed.
-(rerunfilecheck)             Checksum: 15C239C3A59C239D9EF6DD266FAD1501;988.
+(rerunfilecheck)             Checksum: FA828A667927E6DDBE3AEE1672DF9A49;1046.
  ) 
 Here is how much of TeX's memory you used:
  17061 strings out of 476025
  283646 string characters out of 5779036
- 1875388 words of memory out of 5000000
+ 1874388 words of memory out of 5000000
  37022 multiletter control sequences out of 15000+600000
  568250 words of font info for 239 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,77p,1081b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on article_3.pdf (1 page, 72722 bytes).
+Output written on article_3.pdf (1 page, 72118 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
